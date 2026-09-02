@@ -23,7 +23,7 @@ print()
 # ==========================
 # 3. String (str)
 # ==========================
-name = "Dasprakash"
+name = "DASPRAKASH"
 print("String Value:", name)
 print("Data Type:", type(name))
 print()
@@ -64,7 +64,7 @@ print()
 # 8. Dictionary (dict)
 # ==========================
 student = {
-    "Name": "Dasprakash",
+    "Name": "DASPRAKASH",
     "Age": 21,
     "CGPA": 8.4
 }
